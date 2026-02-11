@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AkshatSharma31
-- 👀 I’m interested in Coding and science
-- 🌱 I’m currently studying at IISER Kolkata
-- 💞️ I’m looking to collaborate for the project related to scientific research
-- 📫 How to reach me :-
-- Email- as23ms078@iiserkol.ac.in
-- Linkedin-https://www.linkedin.com/in/akshat-sharma31
+
+👋 Hi, I’m **Akshat Sharma**
+
+🎓 I’m pursuing an **Integrated BS–MS** at the **Indian Institute of Science Education and Research (IISER) Kolkata**  
+🧪 **Major:** Chemical Sciences  
+💻 **Minor:** Computer Science  
+
+🔬 I’m interested in collaborating on projects related to **scientific research**, especially at the intersection of **chemistry and computation**.
+
+📫 **Reach me at:**  
+- 📧 Email: as23ms078@iiserkol.ac.in  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshat-sharma31
 
 <!---
 AkshatSharma31/AkshatSharma31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
