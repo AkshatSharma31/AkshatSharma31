@@ -50,8 +50,9 @@ root@Akshat:~$ ./display_arsenal.sh --all
 root@Akshat:~$ ./check_active_ops.sh
 
 [1] PROCESS RUNNING...
-    [PID 31415] [ACTIVE RESEARCH] Quantum assembly theory defines molecular complexity from electron density
-                (Preprint available at Chemrxiv)
+    [PID 31415] [ACTIVE RESEARCH] Quantum assembly theory defines molecular complexity from electron density.
+                -> Preprint Server : ChemRxiv
+                -> Access Link     : https://doi.org/10.26434/chemrxiv.15000864/v2
 
 root@Akshat:~$ cat honours.log
 
