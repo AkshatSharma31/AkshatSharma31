@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00FF00&vCenter=true&width=800&lines=Initializing+Quantum+Assembly+Index...;Calculating+Laplacian+at+Cage+Critical+Point...;Bridging+Hardware+Synthesis+and+Firmware+Theory...;System+Ready." alt="Terminal Boot Sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00FF00&vCenter=true&width=800&lines=Initializing+Undergraduate+Researcher+@+IISER+Kolkata...;Bridging+Hardware+Synthesis+and+Firmware+Theory...;System+Ready." alt="Terminal Boot Sequence" />
 </div>
 
 root@Akshat:~$ cat signal.txt
@@ -9,21 +9,18 @@ root@Akshat:~$ cat signal.txt
 [DIRECTIVE]: Operating at the intersection of quantum topology, statistical 
              mechanics, and pathway-driven assembly.
 
-[LOG]: While my foundation is in the "dirty hands" of inorganic synthesis, 
-       my current directive focuses on the algorithmic limits of chemical 
-       complexity. I develop parameter-free mathematical frameworks derived 
-       purely from ab initio quantum mechanics.
+[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise logic of computational chemistry to decode complex materials.
 
 root@Akshat:~$ ./display_arsenal.sh --all
 
-=============================================================================
-                          >> THE ARSENAL <<
-=============================================================================
+=======================================================
+                  >> THE ARSENAL <<
+=======================================================
 
 [+] SOFTWARE: QUANTUM TOPOLOGY & THEORY
-    ├── Topological Quantum Chemistry : QTAIM, mapping 3D cage strain (∇²ρ) 
-    │                                   and 2D ring distortions (ε).
-    ├── Electronic Structure          : ORCA (Geometry optimization, Gibbs free
+    ├── Topological Quantum Chemistry : Multiwfn (QTAIM, mapping laplacian (∇²ρ) 
+    │                                   and 2D ring ellipticity (ε).
+    ├── Electronic Structure          : ORCA/xTB (Geometry optimization, Gibbs free
     │                                   energy, electron density).
     └── Statistical Modeling          : Probability models, threshold validation, 
                                         survival analysis.
@@ -40,12 +37,6 @@ root@Akshat:~$ ./display_arsenal.sh --all
     └── Compilation                   : LaTeX (Mathematical typesetting).
 
 root@Akshat:~$ ./check_active_ops.sh
-
-[1] PROCESS RUNNING...
-    [PID 31415] [UNDER REVIEW] Developing the Quantum Assembly Index (A_ρ)
-    -> A parameter-free metric bridging ground-state electron topology 
-       with Assembly Theory. In preparation for high-impact submission.
-
 root@Akshat:~$ cat honours.log
 
 [*] 2024: Reliance Foundation Scholar 
