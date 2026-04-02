@@ -1,3 +1,8 @@
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00FF00&vCenter=true&width=800&lines=Initializing+Quantum+Assembly+Index...;Calculating+Laplacian+at+Cage+Critical+Point...;Bridging+Hardware+Synthesis+and+Firmware+Theory...;System+Ready." alt="Terminal Boot Sequence" />
+</div>
+
+> *"Synthesis is the hardware. Theory is the software. I build the bridge."*
 # 🩸 Digital Architect of Matter
 
 > *"Synthesis is the hardware. Theory is the software. I build the bridge."*
