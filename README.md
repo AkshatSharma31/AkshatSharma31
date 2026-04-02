@@ -2,34 +2,53 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00FF00&vCenter=true&width=800&lines=Initializing+Quantum+Assembly+Index...;Calculating+Laplacian+at+Cage+Critical+Point...;Bridging+Hardware+Synthesis+and+Firmware+Theory...;System+Ready." alt="Terminal Boot Sequence" />
 </div>
 
-> *"Synthesis is the hardware. Theory is the software. I build the bridge."*
-# 🩸 Digital Architect of Matter
+root@Akshat:~$ cat signal.txt
+> "Synthesis is the hardware. Theory is the software. I build the bridge."
 
-> *"Synthesis is the hardware. Theory is the software. I build the bridge."*
+[STATUS]: Undergraduate Researcher @ IISER Kolkata
+[DIRECTIVE]: Operating at the intersection of quantum topology, statistical 
+             mechanics, and pathway-driven assembly.
 
-### 📡 The Signal
-I am an undergraduate researcher at **IISER Kolkata**, focused on the **algorithmic understanding of self-assembly**.
-I combine the "dirty hands" of inorganic synthesis with the precise logic of computational chemistry to decode complex materials.
+[LOG]: While my foundation is in the "dirty hands" of inorganic synthesis, 
+       my current directive focuses on the algorithmic limits of chemical 
+       complexity. I develop parameter-free mathematical frameworks derived 
+       purely from ab initio quantum mechanics.
 
----
+root@Akshat:~$ ./display_arsenal.sh --all
 
-### ⚔️ The Arsenal (Technical Capabilities)
+=============================================================================
+                          >> THE ARSENAL <<
+=============================================================================
 
-#### 🧪 Hardware: Advanced Synthesis
-* **Giant Cluster Assembly:** Expertise in the self-assembly of Polyoxometalates, specifically **{Mo132} Keplerates** and **{Mo154} Blue Ring**.
-* **Crystal Engineering:** Polymorphism control and solvothermal synthesis of novel catalytic materials.
-* **Ligand Design:** Synthesis of sterically demanding **N-heterocyclic carbenes (NHC)** and organometallic complexes.
+[+] SOFTWARE: QUANTUM TOPOLOGY & THEORY
+    ├── Topological Quantum Chemistry : QTAIM, mapping 3D cage strain (∇²ρ) 
+    │                                   and 2D ring distortions (ε).
+    ├── Electronic Structure          : ORCA (Geometry optimization, Gibbs free
+    │                                   energy, electron density).
+    └── Statistical Modeling          : Probability models, threshold validation, 
+                                        survival analysis.
 
-#### 💻 Software: Electronic Structure & Theory
-* **DFT Engines:** Geometry optimization and thermodynamic analysis (Gibbs Free Energy/Enthalpy) using **ORCA**.
-* **Crystallography:** Advanced structure refinement using **Olex2** (Müller lineage protocols) and unit cell determination via **CrysAlisPro**.
-* **Topological Analysis:** Packing analysis and void space visualization using **Mercury**.
+[+] HARDWARE: ADVANCED SYNTHESIS & VALIDATION
+    ├── Giant Cluster Assembly        : {Mo132} Keplerates & {Mo154} Blue Rings.
+    ├── Crystallography               : Olex2, CrysAlisPro (Structure refinement).
+    └── Ligand Design                 : N-heterocyclic carbenes (NHC).
 
-#### ⚙️ Firmware: Control & Automation
-* **Languages:** `Python` (NumPy for data analysis), `LaTeX` (Documentation), `Linux` (HPC Environment).
-* **Data Logic:** Processing Powder XRD (Phase ID) and spectroscopic data (UV-Vis/Raman/FT-IR).
+[+] FIRMWARE: CONTROL, AUTOMATION & LOGIC
+    ├── Data Science Stack            : Python (NumPy, SciPy, Matplotlib/Seaborn).
+    ├── Systems Logic                 : C (Pointers, Memory allocation, Trees).
+    ├── Environment                   : Linux HPC, Bash scripting.
+    └── Compilation                   : LaTeX (Mathematical typesetting).
 
----
+root@Akshat:~$ ./check_active_ops.sh
 
-### 🏆 Honours
-* **Reliance Foundation Scholar:** Selected among top 5,000 students in India for academic excellence.
+[1] PROCESS RUNNING...
+    [PID 31415] [UNDER REVIEW] Developing the Quantum Assembly Index (A_ρ)
+    -> A parameter-free metric bridging ground-state electron topology 
+       with Assembly Theory. In preparation for high-impact submission.
+
+root@Akshat:~$ cat honours.log
+
+[*] 2024: Reliance Foundation Scholar 
+    -> Selected among the top 5,000 students in India for academic excellence.
+
+root@Akshat:~$ _
