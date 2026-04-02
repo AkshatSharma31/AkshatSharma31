@@ -62,6 +62,6 @@ root@Akshat:~$ cat .config/network_links
 
 [+] SECURE CONNECTIONS ESTABLISHED
     ├── Email    : as23ms078@iiserkol.ac.in
-    ├── LinkedIn : [linkedin.com/in/akshat-sharma31/](https://www.linkedin.com/in/akshat-sharma31/)
+    ├── LinkedIn : linkedin.com/in/akshat-sharma31
     └── ORCID    : orcid.org/0009-0000-8474-5816
 root@Akshat:~$ _
