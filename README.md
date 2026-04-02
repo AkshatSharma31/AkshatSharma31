@@ -13,6 +13,9 @@
   </a>
 </div>
 <br>
+<a href="https://github.com/AkshatSharma31/YOUR-CV-REPO-NAME/blob/main/CV_Akshat_Sharma.pdf">
+  <img src="https://img.shields.io/badge/Curriculum_Vitae-Read_PDF-00FF00?style=for-the-badge&logo=peertube&logoColor=black" alt="CV PDF" />
+</a>
 
 ```bash
 root@Akshat:~$ cat signal.txt
@@ -64,5 +67,6 @@ root@Akshat:~$ cat .config/network_links
 [+] SECURE CONNECTIONS ESTABLISHED
     ├── Email    : as23ms078@iiserkol.ac.in
     ├── LinkedIn : linkedin.com/in/akshat-sharma31
-    └── ORCID    : orcid.org/0009-0000-8474-5816
+    ├── ORCID    : orcid.org/0009-0000-8474-5816
+    └── Resume   : github.com/AkshatSharma31/Curriculum-Vitae
 root@Akshat:~$ _
