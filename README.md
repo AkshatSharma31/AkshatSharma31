@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=400&color=00FF00&vCenter=true&width=800&lines=Initializing....;Connection+Established:+Akshat+Sharma....;Undergraduate+Researcher+@+IISER+Kolkata....;Bridging+Hardware+Synthesis+and+Firmware+Theory....;System+Ready." alt="Terminal Boot Sequence" />
 </div>
 
-```yaml
+```bash
 'root@Akshat:~$ cat signal.txt'
 
 '> "Synthesis is the hardware. Theory is the software. I build the bridge."'
