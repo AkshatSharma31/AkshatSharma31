@@ -46,4 +46,17 @@ root@Akshat:~$ cat honours.log
 [*] 2024: Reliance Foundation Scholar 
     -> Selected among the top 5,000 students in India for academic excellence.
 
+<div align="left">
+  <a href="mailto:your.email@iiserkol.ac.in">
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://orcid.org/YOUR_ORCID">
+    <img src="https://img.shields.io/badge/ORCID-00FF00?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID" />
+  </a>
+</div>
+<br>
+
 root@Akshat:~$ _
