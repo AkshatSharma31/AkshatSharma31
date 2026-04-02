@@ -13,9 +13,9 @@
   </a>
 </div>
 <br>
-'<a href="https://github.com/AkshatSharma31/YOUR-CV-REPO-NAME/blob/main/CV_Akshat_Sharma.pdf">
+<a href="https://github.com/AkshatSharma31/YOUR-CV-REPO-NAME/blob/main/CV_Akshat_Sharma.pdf">
   <img src="https://img.shields.io/badge/Curriculum_Vitae-Read_PDF-00FF00?style=for-the-badge&logo=peertube&logoColor=black" alt="CV PDF" />
-</a>'
+</a>
 
 ```bash
 root@Akshat:~$ cat signal.txt
