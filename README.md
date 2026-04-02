@@ -13,6 +13,9 @@
   </a>
 </div>
 <br>
+<a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000864/v2">
+  <img src="[https://img.shields.io/badge/ChemRxiv-Read_Preprint-00FF00?style=for-the-badge&logo=arxiv&logoColor=black](https://img.shields.io/badge/ChemRxiv-Read_Preprint-00FF00?style=for-the-badge&logo=arxiv&logoColor=black)" alt="ChemRxiv Preprint" />
+</a>
 
 ```bash
 root@Akshat:~$ cat signal.txt
