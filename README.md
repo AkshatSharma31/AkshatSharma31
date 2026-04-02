@@ -3,30 +3,30 @@
 </div>
 
 ```bash
-'root@Akshat:~$ cat signal.txt'
+root@Akshat:~$ cat signal.txt
 
-'> "Synthesis is the hardware. Theory is the software. I build the bridge."'
+> "Synthesis is the hardware. Theory is the software. I build the bridge."
 
-'[STATUS]: Undergraduate Researcher @ IISER Kolkata' 
-'[DIRECTIVE]: Operating at the intersection of quantum topology, statistical 
-             mechanics, and pathway-driven assembly.'
+[STATUS]: Undergraduate Researcher @ IISER Kolkata
+[DIRECTIVE]: Operating at the intersection of quantum topology, statistical 
+             mechanics, and pathway-driven assembly.
 
-'[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise 
-       logic of computational chemistry to decode complex materials.'
+[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise 
+       logic of computational chemistry to decode complex materials.
 
-'root@Akshat:~$ ./display_arsenal.sh --all'
+root@Akshat:~$ ./display_arsenal.sh --all
 
-'============================================================================='
-'                          >> THE ARSENAL <<'
-'============================================================================='
+=============================================================================
+                          >> THE ARSENAL <<
+=============================================================================
 
-'[+] SOFTWARE: QUANTUM TOPOLOGY & THEORY' 
-'    ├── Topological Quantum Chemistry : Multiwfn (QTAIM, mapping laplacian (∇²ρ)' 
-'    │                                   and 2D ring ellipticity (ε)).'
-'    ├── Electronic Structure          : ORCA/xTB (Geometry optimization, Gibbs free' 
-'    │                                   energy, electron density).'
-'    └── Statistical Modeling          : Probability models, threshold validation,' 
-'                                        survival analysis.'
+[+] SOFTWARE: QUANTUM TOPOLOGY & THEORY
+    ├── Topological Quantum Chemistry : Multiwfn (QTAIM, mapping laplacian (∇²ρ) 
+    │                                   and 2D ring ellipticity (ε)).
+    ├── Electronic Structure          : ORCA/xTB (Geometry optimization, Gibbs free 
+    │                                   energy, electron density).
+    └── Statistical Modeling          : Probability models, threshold validation, 
+                                        survival analysis.
 
 [+] HARDWARE: ADVANCED SYNTHESIS & VALIDATION 
     ├── Giant Cluster Assembly        : {Mo132} Keplerates & {Mo154} Blue Rings. 
