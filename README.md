@@ -3,19 +3,16 @@
 </div>
 <div align="left">
   <a href="mailto:as23ms078@iiserkol.ac.in">
-    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-#FF0000?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/akshat-sharma31/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-#0000FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://orcid.org/0009-0000-8474-5816">
-    <img src="https://img.shields.io/badge/ORCID-00FF00?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID" />
   </a>
 </div>
 <br>
-<a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000864/v2">
-  <img src="[https://img.shields.io/badge/ChemRxiv-Read_Preprint-00FF00?style=for-the-badge&logo=arxiv&logoColor=black](https://img.shields.io/badge/ChemRxiv-Read_Preprint-00FF00?style=for-the-badge&logo=arxiv&logoColor=black)" alt="ChemRxiv Preprint" />
-</a>
 
 ```bash
 root@Akshat:~$ cat signal.txt
