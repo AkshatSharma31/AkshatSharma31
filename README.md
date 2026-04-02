@@ -16,9 +16,9 @@ root@Akshat:~$ cat signal.txt
 
 root@Akshat:~$ ./display_arsenal.sh --all
 
-
+=============================================================================
                           >> THE ARSENAL <<
-
+=============================================================================
 
 [+] SOFTWARE: QUANTUM TOPOLOGY & THEORY
     ├── Topological Quantum Chemistry : QTAIM, mapping 3D cage strain (∇²ρ) 
