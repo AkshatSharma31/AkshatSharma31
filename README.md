@@ -10,7 +10,8 @@ root@Akshat:~$ cat signal.txt
 [STATUS]: Undergraduate Researcher @ IISER Kolkata
 [DIRECTIVE]: Operating at the intersection of quantum topology, statistical mechanics, and pathway-driven assembly.
 
-[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise logic of computational chemistry to decode complex materials.
+[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise logic of computational chemistry to decode
+       complex materials.
 
 root@Akshat:~$ ./display_arsenal.sh --all
 
