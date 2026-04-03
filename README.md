@@ -14,7 +14,7 @@
 </div>
 <br>
 <a href="https://github.com/AkshatSharma31/Curriculum-Vitae/blob/main/Akshat%20CV.pdf">
-  <img src="https://img.shields.io/badge/Curriculum_Vitae-Read_PDF-00FF00?style=for-the-badge&logo=peertube&logoColor=black" alt="CV PDF" />
+  <img src="https://img.shields.io/badge/Curriculum_Vitae-00FF00?style=for-the-badge&logo=peertube&logoColor=black" alt="CV PDF" />
 </a>
 
 ```bash
