@@ -31,7 +31,7 @@ root@Akshat:~$ cat signal.txt
 [STATUS]: Undergraduate Researcher @ IISER Kolkata
 [DIRECTIVE]: Operating at the intersection of quantum topology, statistical mechanics, and pathway-driven assembly.
 
-[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise logic of computational chemistry to decode
+[LOG]: I combine the "dirty hands" of inorganic synthesis with the precise logic of computational and theoretical chemistry to decode
        complex materials.
 
 root@Akshat:~$ ./display_arsenal.sh --all
@@ -62,7 +62,9 @@ root@Akshat:~$ ./check_active_ops.sh
     [PID 31415] [ACTIVE RESEARCH] Quantum assembly theory defines molecular complexity from electron density.
                 -> Preprint Server : ChemRxiv
                 -> Access Link     : https://doi.org/10.26434/chemrxiv.15000864/v2
-
+[2] PROCESS RUNNING...
+    [PID 31420] [ACTIVE RESEARCH] A Unified Discrete and Continuous Theory of Core--Halo Complexity Maximizers.
+                -> Current Status  : Manuscript under preparation
 root@Akshat:~$ cat honours.log
 
 [*] 2024: Reliance Foundation Scholar 
