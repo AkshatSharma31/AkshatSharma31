@@ -65,6 +65,7 @@ root@Akshat:~$ ./check_active_ops.sh
 [2] PROCESS RUNNING...
     [PID 31420] [ACTIVE RESEARCH] A Unified Discrete and Continuous Theory of Core--Halo Complexity Maximizers.
                 -> Current Status  : Manuscript under preparation
+
 root@Akshat:~$ cat honours.log
 
 [*] 2024: Reliance Foundation Scholar 
