@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-623BCE?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Google Scholar" />
   </a>
   <a href="https://akshatsharma31.github.io/">
-    <img src="https://img.shields.io/badge/WEBSITE-2D5A27?style=for-the-badge&logo=⚛️&logoColor=black" alt="WEBSITE" />
+    <img src="https://img.shields.io/badge/WEBSITE-2D5A27?style=for-the-badge&logo=googlechrome&logoColor=black" alt="WEBSITE" />
   </a>
 </div>
 <br>
