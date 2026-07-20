@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID" />
   </a>
   <a href="https://scholar.google.com/citations?user=D2c7uYUAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-#623BCE?style=for-the-badge&logo=google%20scholar&logoColor=black" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-#623BCE?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Google Scholar" />
   </a>
 </div>
 <br>
