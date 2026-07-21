@@ -64,7 +64,8 @@ root@Akshat:~$ ./check_active_ops.sh
                 -> Access Link     : https://doi.org/10.26434/chemrxiv.15000864/v2
 [2] PROCESS RUNNING...
     [PID 31420] [ACTIVE RESEARCH] A Unified Discrete and Continuous Theory of Core--Halo Complexity Maximizers.
-                -> Current Status  : Manuscript under preparation
+                -> Preprint Server : arXiv
+                -> Access Link     : http://arxiv.org/abs/2607.17907  
 
 root@Akshat:~$ cat honours.log
 
