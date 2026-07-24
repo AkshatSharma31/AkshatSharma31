@@ -59,9 +59,9 @@ root@Akshat:~$ ./display_arsenal.sh --all
 root@Akshat:~$ ./check_active_ops.sh
 
 [1] PROCESS RUNNING...
-    [PID 31415] [ACTIVE RESEARCH] Quantum assembly theory defines molecular complexity from electron density.
+    [PID 31415] [ACTIVE RESEARCH] Quantifying the physical complexity of chemical architectures through electron-density topology
                 -> Preprint Server : ChemRxiv
-                -> Access Link     : https://doi.org/10.26434/chemrxiv.15000864/v2
+                -> Access Link     : https://doi.org/10.26434/chemrxiv.15000864/v4
 [2] PROCESS RUNNING...
     [PID 31420] [ACTIVE RESEARCH] A Unified Discrete and Continuous Theory of Core--Halo Complexity Maximizers.
                 -> Preprint Server : arXiv
